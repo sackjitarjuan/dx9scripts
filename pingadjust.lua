@@ -1,15 +1,4 @@
---// DaHood Ping To Prediciton Increment Thing - supg //--
-
---[[
-info:
-If you average over 110 ping, just use the 110 setting as its the highest you can go while still being accurate.
-Example: If you have 69 ping, set your ping target to 60 as you ALWAYS round
-Feel free to import your own sets as well as up / down increment keys.
-This script WILL WORK FOR ANY GAME, although I HIGHLY suggest changing the sets if you're going to be using the script for other games.
-Script WILL adjust to different table sizes and values automatically (as long as there is 1 or more values in table)
-script made by supg B) 
-]]
-
+-- Custom Pingadjust with more preds
 --// Change this stuff if you need to
 local down_key = '[F]'
 local up_key = '[G]'
